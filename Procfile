@@ -1,1 +1,1 @@
-Web: python3 main.py
+Moe: python3 main.py
